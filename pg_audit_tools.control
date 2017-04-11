@@ -1,0 +1,9 @@
+# pg_audit_tools extension
+
+comment = 'PostgreSQL extension for audit tables management'
+default_version = 0.1
+
+encoding = utf8
+superuser = true
+relocatable = false
+schema = audit_tools
